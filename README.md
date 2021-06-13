@@ -2,8 +2,8 @@
 
 ## Currently trying to teach myself a little bit more than printing 'Hello, World!'
 
--   🔭 I just uploaded a MERN full-stack project: [BD Coverage Map][project]!
--   🌱 Trying to learn as many new frameworks and language
+-   🔭 Just uploaded a MERN full-stack project: [BD Coverage Map][project]!
+-   🌱 Learning as many new frameworks and language
 -   🥅 2021 Goals: Complete my first commissioned project
 -   🥅 2021 Pre-Goals: Receive a commissioned project!
 
